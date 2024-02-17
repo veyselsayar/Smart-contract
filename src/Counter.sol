@@ -28,4 +28,6 @@ contract Counter {
     function increment() public {
         number++;
     }
+    
+    
 }
